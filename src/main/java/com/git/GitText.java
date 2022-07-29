@@ -1,11 +1,11 @@
 package com.git;
 
-/**
-
- * @author asda
- */
-public class GitTest {
+public class GitText {
+    /**
+     * @author asdf323
+     */
     public static void main(String[] args) {
+
         System.out.println("git,IDEA");
     }
 }
